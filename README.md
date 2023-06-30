@@ -1,9 +1,10 @@
+<!--
 - 👋 Hi, I’m Ridhwan bakare
 - 👀 I’m interested in softwares and hardwares and binding them together to achieve desired purposes
 - 🌱 I’m currently learning software engineering and building some prototypes
 - 💞️ I’m looking to collaborate on embedded systems designers 
 - 📫 How to reach me on LinkedIn(#) -
-
+-->
 <!--
 My Name is [Ridhwan](https://linktr.ee/firdaus_h_salim). I am a software engineer with interest in solving real-world problems with technology and dependable leadership. An avid [writer](https://www.amazon.com/Scattered-Tears-Heartbreak-Heals/dp/B092P9NQTP) | [reader](https://www.goodreads.com/author/show/21309619.Firdaus_H_Salim) exploring information technology advancements and personal development through books. Writes technical articles in Hashnode ([@BetaScribbles](https://betascribbles.hashnode.dev/)) and non-technical articles in Medium ([@BetaScribbles](https://betascribbles.medium.com/)). <br/>
 Ask me anything [here](https://github.com/ibnbakare/ibnbakare/issues?q=is%3Aissue+is%3Aopen).
